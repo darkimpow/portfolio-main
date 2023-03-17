@@ -33,30 +33,30 @@ function Navbar() {
             </ul>
 
             {/*Social icons for menu*/}
-            <div className='flex fixed flex-col top-[35%] left-0'>
+            <div className=' hidden lg:flex fixed flex-col top-[35%] left-0'>
                 <ul>
-                    <li className='w-[160px] h-[60] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500 '>
+                    <li className='w-[160px] h-[70] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500 '>
                         <a className='flex justify-between items-center w-full text-gray-300 '
                             href="/">
-                            LinkedIn <FaLinkedin size={30}/>
+                            LinkedIn <FaLinkedin size={40}/>
                         </a>
                     </li>
-                    <li className='w-[160px] h-[60] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500 '>
+                    <li className='w-[160px] h-[70] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700 '>
                         <a className='flex justify-between items-center w-full text-gray-300 '
                            href="/">
-                            LinkedIn <FaLinkedin size={30}/>
+                            Github <FaGithub size={40}/>
                         </a>
                     </li>
-                    <li className='w-[160px] h-[60] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500 '>
+                    <li className='w-[160px] h-[70] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-500 '>
                         <a className='flex justify-between items-center w-full text-gray-300 '
                            href="/">
-                            LinkedIn <FaLinkedin size={30}/>
+                            Email <HiOutlineMail size={40}/>
                         </a>
                     </li>
-                    <li className='w-[160px] h-[60] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500 '>
+                    <li className='w-[160px] h-[70] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-500 '>
                         <a className='flex justify-between items-center w-full text-gray-300 '
                            href="/">
-                            LinkedIn <FaLinkedin size={30}/>
+                            Resume <BsFillPersonLinesFill size={40}/>
                         </a>
                     </li>
                 </ul>
