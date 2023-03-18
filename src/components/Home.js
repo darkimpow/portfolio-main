@@ -9,7 +9,7 @@ function Home() {
                 <p className='text-emerald-400'>Hi, my name is </p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-gray-300'>Darkim Powell</h1>
                 <h2 className='text-4xl sm:text-7xl font-bold text-gray-400'>I'm a Full Stack Developer </h2>
-                <p className='text-gray-400 max-w-[700px]'>I am pleased to share that I have successfully completed a 20-week full stack software engineering academy that specialized in cutting-edge technologies such as JavaScript, HTML, Tailwind CSS, and React. During my training, I gained extensive experience in working with APIs, including the recently released ChatGBT's API. Through this program, I have developed a strong foundation in software engineering principles and practices, enabling me to confidently tackle complex development projects and deliver innovative solutions.
+                <p className='text-gray-400 max-w-[700px]'>I am pleased to share that I have successfully completed a 20-week full stack software engineering academy that specialized in cutting-edge technologies such as HTML, CSS, Tailwind, JavaScript, PostgreSql and React. During my training, I gained extensive experience in working with APIs, including the recently released ChatGBT's API. Through this program, I have developed a strong foundation in software engineering principles and practices, enabling me to confidently tackle complex development projects and deliver innovative solutions.
                 </p>
             <div>
 
