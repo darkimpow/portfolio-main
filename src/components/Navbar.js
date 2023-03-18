@@ -39,6 +39,9 @@ function Navbar() {
                             Contact
                         </Link>
                     </li>
+                    <li>
+                        <a href='https://docs.google.com/document/d/1XCEsQsMHQh1be1dRqIax0G4q_qm01ja_180xMjZzFS8/edit?usp=sharing'>Resume</a>
+                    </li>
                 </ul>
             {/*Hamburger side */}
             <div onClick={handleClick} className='md:hidden z-10'>
