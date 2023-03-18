@@ -20,13 +20,13 @@ function Work() {
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React Js Application
+                                CreativePainter.io
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://creative-painter-io-pearl.vercel.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/darkimpow/CreativePainter.io">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                                 </a>
                             </div>
@@ -39,13 +39,13 @@ function Work() {
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React Js Application
+                                Aquarium.os
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://deliverable-12-fish-tank-controller.vercel.app/main.html">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/darkimpow/Deliverable-12-Fish-Tank-Controller">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                                 </a>
                             </div>
@@ -57,13 +57,71 @@ function Work() {
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React Js Application
+                                GitHub Login
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://github-login-fawn.vercel.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/darkimpow/github-login">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/*More projects here*/}
+
+                    {/*Card container*/}
+                    <div style={{background: ` url(${CreativeP})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/*Hover effect added here*/}
+                        <div className='opacity-0 group-hover:opacity-100  '>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                CreativePainter.io
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <a href="https://creative-painter-io-pearl.vercel.app/">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
+                                </a>
+                                <a href="https://github.com/darkimpow/CreativePainter.io">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/*Aquarium os*/}
+                    <div style={{background: ` url(${Aquarium})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/*Hover effect added here*/}
+                        <div className='opacity-0 group-hover:opacity-100  '>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                Aquarium.os
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <a href="https://deliverable-12-fish-tank-controller.vercel.app/main.html">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
+                                </a>
+                                <a href="https://github.com/darkimpow/Deliverable-12-Fish-Tank-Controller">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    {/*Github os*/}
+                    <div style={{background: ` url(${Login})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/*Hover effect added here*/}
+                        <div className='opacity-0 group-hover:opacity-100  '>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                GitHub Login
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <a href="https://github-login-fawn.vercel.app/">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
+                                </a>
+                                <a href="https://github.com/darkimpow/github-login">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                                 </a>
                             </div>

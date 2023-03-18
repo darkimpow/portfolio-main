@@ -37,13 +37,13 @@ function Navbar() {
                 <ul>
                     <li className='w-[160px] h-[70] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500 '>
                         <a className='flex justify-between items-center w-full text-gray-300 '
-                            href="/">
+                            href="https://www.linkedin.com/in/darkim-powell-2a31b81bb/">
                             LinkedIn <FaLinkedin size={40}/>
                         </a>
                     </li>
                     <li className='w-[160px] h-[70] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-700 '>
                         <a className='flex justify-between items-center w-full text-gray-300 '
-                           href="/">
+                           href="https://github.com/darkimpow?tab=repositories">
                             Github <FaGithub size={40}/>
                         </a>
                     </li>
@@ -55,7 +55,7 @@ function Navbar() {
                     </li>
                     <li className='w-[160px] h-[70] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gray-500 '>
                         <a className='flex justify-between items-center w-full text-gray-300 '
-                           href="/">
+                           href="https://docs.google.com/document/d/1XCEsQsMHQh1be1dRqIax0G4q_qm01ja_180xMjZzFS8/edit?usp=sharing">
                             Resume <BsFillPersonLinesFill size={40}/>
                         </a>
                     </li>
