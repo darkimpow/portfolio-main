@@ -10,7 +10,7 @@ function Navbar() {
     return (
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-slate-700 text-gray-300'>
             <div>
-                <img src={D} alt="logo" style={{width:'130px'}}/>
+                <img className='pt-10' src={D} alt="logo" style={{width:'230px'}}/>
             </div>
             {/*Menu section with smooth scroll through link react-scroll import */}
                 <ul className='hidden md:flex'>

@@ -12,6 +12,7 @@ function Home() {
                 <p className='text-gray-400 max-w-[700px]'>Highly motivated and results-driven professional with a background in exercise science and a passion for technology. Leveraged curiosity and determination to successfully transition into a full stack software engineering role, utilizing expertise in problem-solving and critical thinking to deliver innovative solutions. Proven ability to learn quickly and adapt to new technologies and programming languages. Committed to staying up to date with industry trends and best practices to deliver high-quality results.
                 </p>
             <div>
+
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-emerald-400 hover:border-gray-400'>View Work
                     <span className='group-hover:rotate-90 duration-300'>
                         <HiArrowNarrowRight className='ml-3' />

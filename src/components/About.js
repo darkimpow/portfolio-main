@@ -13,11 +13,11 @@ function About() {
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold'>
-                        <p>Hi Im Darkim, nice to meet you. Stay awhile this is a cozy place</p>
+                        <p>Hi Im Darkim, nice to meet you stay awhile it's cozy here.</p>
                     </div>
                     <div>
                         <p>
-                            Highly motivated and results-driven professional with a background in exercise science and a passion for technology. Leveraged curiosity and determination to successfully transition into a full stack software engineering role, utilizing expertise in problem-solving and critical thinking to deliver innovative solutions. Proven ability to learn quickly and adapt to new technologies and programming languages. Committed to staying up to date with industry trends and best practices to deliver high-quality results.
+                            Motivated professional with a background in exercise science and a passion for technology. Successfully transitioned to a full stack software engineering role utilizing problem-solving and critical thinking to deliver innovative solutions. Quick learner with the ability to adapt to new technologies and committed to staying up-to-date with industry trends and best practices.
                         </p>
                     </div>
                 </div>
