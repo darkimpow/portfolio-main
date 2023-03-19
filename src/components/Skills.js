@@ -14,7 +14,7 @@ function Skills() {
             <div className='max-w-[1000px] mx-auto flex flex-col  w-full h-full'>
                 <div>
                     <p className='text-4xl font-bold inline border-b-4 border-emerald-400'>Skills</p>
-                    <p className='py-4'>These are the Technologies I've worked with</p>
+                    <p className='py-4'>I specialize in developing full web stack applications and leverage a range of cutting-edge technologies to build robust and scalable solutions. My preferred tech stack typically includes modern  frameworks such as React, Tailwind CSS etc, as well as back-end technologies like Node.js or PostgreSql. .</p>
                 </div>
                 <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8 '>
                     <div className='shadow-md shadow-slate-500 hover:scale-110 duration-500'>
