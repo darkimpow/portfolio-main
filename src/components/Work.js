@@ -1,7 +1,7 @@
 import React from 'react';
 import Aquarium from '../assets/projects/Aquarium.png'
 import CreativeP from '../assets/projects/CreativeP.png'
-import Login from '../assets/projects/Login.png'
+import GitL from '../assets/projects/GitL.png'
 function Work() {
     return (
         <div name='work' className=' w-full md:h-screen text-gray-300 bg-slate-700'>
@@ -52,7 +52,7 @@ function Work() {
                         </div>
                     </div>
                     {/*Github os*/}
-                    <div style={{background: ` url(${Login})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{background: ` url(${GitL})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
@@ -110,7 +110,7 @@ function Work() {
                         </div>
                     </div>
                     {/*Github os*/}
-                    <div style={{background: ` url(${Login})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{background: ` url(${GitL})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div pr-6'>
 
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
