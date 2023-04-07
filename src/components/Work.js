@@ -4,6 +4,7 @@ import CreativeP from '../assets/projects/CreativeP.png'
 import GitL from '../assets/projects/GitL.png'
 import TODO from '../assets/projects/TODO.png'
 import HuntAce from '../assets/projects/HuntAce.png'
+import Ai from '../assets/projects/AI.png'
 function Work() {
     return (
         <div name='work' className=' w-full md:h-screen text-gray-300 bg-slate-700'>
@@ -112,7 +113,7 @@ function Work() {
                         </div>
                     </div>
                     {/*Github os*/}
-                    <div style={{background: ` url(${GitL})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div pr-6'>
+                    <div style={{background: ` url(${Ai})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div pr-6'>
 
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
@@ -120,10 +121,10 @@ function Work() {
                                 GitHub Login
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://github-login-fawn.vercel.app/">
+                                <a href="https://ai-writer-app-dp.vercel.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
                                 </a>
-                                <a href="https://github.com/darkimpow/github-login">
+                                <a href="https://github.com/darkimpow/ai-writer-app-dp">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                                 </a>
                             </div>
