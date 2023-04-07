@@ -117,8 +117,8 @@ function Work() {
 
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                                GitHub Login
+                            <span className='text-2xl ml-5 font-bold text-white tracking-wider'>
+                                Ai Writer
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://ai-writer-app-dp.vercel.app/">
