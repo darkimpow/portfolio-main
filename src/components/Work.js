@@ -124,7 +124,7 @@ function Work() {
                                 <a href="https://ai-writer-app-final.vercel.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
                                 </a>
-                                <a href="https://github.com/darkimpow/ai-writer-app-dp">
+                                <a href="https://github.com/darkimpow/ai-writer-app-final">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                                 </a>
                             </div>
