@@ -1,10 +1,10 @@
 import React from 'react';
 import Aquarium from '../assets/projects/Aquarium.png'
-import CreativeP from '../assets/projects/CreativeP.png'
 import GitL from '../assets/projects/GitL.png'
 import TODO from '../assets/projects/TODO.png'
 import HuntAce from '../assets/projects/HuntAce.png'
 import Ai from '../assets/projects/AI.png'
+import Admin from '../assets/projects/Admin.png'
 function Work() {
     return (
         <div name='work' className=' w-full md:h-screen text-gray-300 bg-slate-700'>
@@ -18,18 +18,18 @@ function Work() {
                     className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
 
                     {/*Card container*/}
-                    <div style={{background: ` url(${CreativeP})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{background: ` url(${Admin})`}} className='shadow-lg shadow-slate-500 group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/*Hover effect added here*/}
                         <div className='opacity-0 group-hover:opacity-100  '>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                CreativePainter.io
+                                Admin Dashboard
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://creative-painter-io-pearl.vercel.app/">
+                                <a href="https://admindashboard-dusky.vercel.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Demo</button>
                                 </a>
-                                <a href="https://github.com/darkimpow/CreativePainter.io">
+                                <a href="https://github.com/darkimpow/admin-dashboard-final">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                                 </a>
                             </div>
